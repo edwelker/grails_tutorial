@@ -1,3 +1,6 @@
+=======
+grails_tutorial
+===============
 *First steps
 
 JAVA_HOME=/usr/lib/jvm/java-openjdk
@@ -11,4 +14,3 @@ git add .gitignore
 git add .classpath .project 
 git add *
 git commit -m "initial commit"
-
