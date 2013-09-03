@@ -8,3 +8,7 @@ cd gtunes
 git init
 grails integrate-with --git  # will generate a good .gitignore file
 git add .gitignore
+git add .classpath .project 
+git add *
+git commit -m "initial commit"
+
