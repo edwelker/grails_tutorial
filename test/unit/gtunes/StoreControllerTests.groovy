@@ -12,6 +12,8 @@ import org.junit.*
 class StoreControllerTests {
 
     void testSomething() {
-       fail "Implement me"
+//       fail "Implement me"
+        controller.index()
+        assert 'Welcome to the gTunes store!' == response.text
     }
 }
